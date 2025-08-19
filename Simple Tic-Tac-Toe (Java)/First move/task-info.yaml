@@ -1,0 +1,15 @@
+type: edu
+custom_name: First move!
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/48/stages/258/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 19 Aug 2025 20:22:52 UTC"
+record: 4
